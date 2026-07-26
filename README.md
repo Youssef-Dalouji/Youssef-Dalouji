@@ -35,6 +35,8 @@ education:
   - Master's in Data Science — ENS Tétouan (2024–Present)
   - BSc Software & Web Dev — ENS Tétouan (2023–2024)
   - Specialized Technician — ISMO Tétouan (2021–2023)
+
+fun_fact: "I debug with console.log and I'm not ashamed 😄"
 ```
 
 <br clear="right"/>
@@ -58,7 +60,7 @@ education:
     <td width="50%">
       <h3 align="center">🔥 Maroc Fire Intelligence (PIM)</h3>
       <p align="center">
-        <a href="[https://github.com/Youssef-Dalouji](https://github.com/Youssef-Dalouji/intelligent-monitoring-platform-for-Moroccan-forests-PIM)"><img src="https://img.shields.io/badge/CODE-0d1117?style=for-the-badge&logo=github" alt="Code"/></a>
+        <a href="https://github.com/Youssef-Dalouji/intelligent-monitoring-platform-for-Moroccan-forests-PIM"><img src="https://github.com/Youssef-Dalouji/intelligent-monitoring-platform-for-Moroccan-forests-PIM" alt="Code"/></a>
       </p>
       <p align="center">Full-stack wildfire prediction platform using <strong>React, Node.js, tRPC</strong> with Python ML (RandomForest), integrating real-time <strong>NASA satellite data</strong>.</p>
       <p align="center">
@@ -86,7 +88,7 @@ education:
     <td width="50%">
       <h3 align="center">🏥 Edge Medical Inference</h3>
       <p align="center">
-        <a href="[https://github.com/Youssef-Dalouji](https://github.com/Youssef-Dalouji/Embedded_Medical_Inference)"><img src="https://img.shields.io/badge/CODE-0d1117?style=for-the-badge&logo=github" alt="Code"/></a>
+        <a href="https://github.com/Youssef-Dalouji/Embedded_Medical_Inference"><img src="https://github.com/Youssef-Dalouji/Embedded_Medical_Inference" alt="Code"/></a>
       </p>
       <p align="center">Optimized <strong>EfficientNet-B0</strong> (quantization & pruning) for breast cancer detection deployed on <strong>IoT edge devices</strong>, monitored via MQTT & ThingsBoard.</p>
       <p align="center">
@@ -99,7 +101,7 @@ education:
     <td width="50%">
       <h3 align="center">☁️ Aether-Chain (Digital Twin)</h3>
       <p align="center">
-        <a href="[https://github.com/Youssef-Dalouji](https://github.com/Youssef-Dalouji/Aether-Chain"><img src="https://img.shields.io/badge/CODE-0d1117?style=for-the-badge&logo=github" alt="Code"/></a>
+        <a href="https://github.com/Youssef-Dalouji/Aether-Chain"><img src="https://github.com/Youssef-Dalouji/Aether-Chain" alt="Code"/></a>
       </p>
       <p align="center"><strong>Huawei Cloud</strong> supply chain digital twin combining live IoT data ingestion with a <strong>Generative AI</strong> conversational agent for logistics.</p>
       <p align="center">
@@ -114,7 +116,7 @@ education:
     <td width="50%">
       <h3 align="center">🌳 Tree-Species Classification</h3>
       <p align="center">
-        <a href="[https://github.com/Youssef-Dalouji](https://github.com/Youssef-Dalouji/Tree-Species-Classification)"><img src="https://img.shields.io/badge/CODE-0d1117?style=for-the-badge&logo=github" alt="Code"/></a>
+        <a href="https://github.com/Youssef-Dalouji/Tree-Species-Classification"><img src="https://github.com/Youssef-Dalouji/Tree-Species-Classification" alt="Code"/></a>
       </p>
       <p align="center">3D point cloud classification achieving top performance by fusing <strong>DGCNN deep features</strong> with an <strong>SVM classifier</strong> under class imbalance.</p>
       <p align="center">
@@ -127,7 +129,7 @@ education:
     <td width="50%">
       <h3 align="center">📊 Gradient Descent Visualizer</h3>
       <p align="center">
-        <a href="[https://github.com/Youssef-Dalouji/gradient-descent-visualizer](https://github.com/Youssef-Dalouji/gradient-descent-visualizer)"><img src="https://img.shields.io/badge/CODE-0d1117?style=for-the-badge&logo=github" alt="Code"/></a>
+        <a href="https://github.com/Youssef-Dalouji/gradient-descent-visualizer"><img src="https://github.com/Youssef-Dalouji/gradient-descent-visualizer" alt="Code"/></a>
       </p>
       <p align="center">Interactive graphical app for applying & visualizing <strong>Gradient Descent</strong> on regression/classification with real-time hyperparameter tuning & learning curves.</p>
       <p align="center">
