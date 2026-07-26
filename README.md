@@ -229,17 +229,17 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🎯 Anwal-OS (AI C2 Simulation)</h3>
+      <h3 align="center">📚 EduDataScraperMA</h3>
       <div align="center">
-        <a href="https://github.com/Youssef-Dalouji"><img src="https://img.shields.io/badge/VIEW_CODE-58a6ff?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
+        <a href="https://github.com/Youssef-Dalouji/EduDataScraperMA"><img src="https://img.shields.io/badge/VIEW_CODE-58a6ff?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
       </div>
       <br/>
-      <p>Interactive tactical dashboard with <strong>Gradio & Leaflet.js</strong>, powered by a fine-tuned <strong>Qwen2.5-7B LLM</strong> for real-time doctrine-compliant AI recommendations.</p>
+      <p>Automated tool to scrape, classify and save <strong>Moroccan school curricula</strong> (primary, middle, high school) using <strong>NLP (Transformers)</strong> and upload organized files to Google Drive.</p>
       <p>
-        <img src="https://img.shields.io/badge/Gradio-FF6F00?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Leaflet.js-199900?style=flat-square&logo=leaflet&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Qwen_2.5-8A2BE2?style=flat-square"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/BeautifulSoup-43B02A?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Google_Drive_API-4285F4?style=flat-square&logo=google-drive&logoColor=white"/>
       </p>
     </td>
   </tr>
